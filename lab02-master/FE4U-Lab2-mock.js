@@ -1822,7 +1822,7 @@ export const additionalUsers = [
     favorite: true,
     course: null,
     bg_color: "#1f75cb",
-    note: null,
+    note: "my note",
   },
   {
     gender: "male",
@@ -1858,6 +1858,7 @@ export const additionalUsers = [
     title: "Mrs",
     full_name: "Olivia Storm",
     city: "Kragerø",
+    age: 25,
     country: "Norway",
     postcode: "3127",
     coordinates: { latitude: "57.2663", longitude: "141.0994" },
